@@ -15,8 +15,8 @@ nav_order: 4
 
 ## Homework Assignments
 
-- Homework 0 (basics), due 4/5
+- Homework 0 (basics), due 4/10
 - Homework 1 (decision trees), due 4/19
 - Homework 2 (deep learning), due 5/3
-- Homework 3 (clustering, EM, PCA), due 5/17
-- Homework 4 (autoencoders, matrix factorization, state space models), due 5/31
+- Homework 3 (K-means clustering, EM), due 5/17
+- Homework 4 (PCA, autoencoders, matrix factorization), due 5/31

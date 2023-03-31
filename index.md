@@ -68,8 +68,8 @@ From experience, eager students with a strong quantitative background are able t
 - Final Project (40%): Project midway (8%), Project presentation (8%), Project report (24%)
 
 **Textbooks**:
-- [Probabilistic Machine Learning](https://probml.github.io/pml-book/): An Introduction; Kevin Murphy
-- Probabilistic Machine Learning: Advanced Topics; Kevin Murphy
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/): [An Introduction](https://probml.github.io/pml-book/book1.html); Kevin Murphy
+- Probabilistic Machine Learning: [Advanced Topics](https://probml.github.io/pml-book/book2.html); Kevin Murphy
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (12th printing)](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf);
  Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
