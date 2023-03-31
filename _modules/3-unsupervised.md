@@ -29,7 +29,7 @@ May 10
       1. **PML1** 21.2
 
 May 15
-: **Lecture 13**{: .label .label-purple } Dim reduction + Latent embeddings I
+: **Lecture 13**{: .label .label-purple } Latent embeddings I
   : &nbsp;
 : * Hierarchical clustering, PCA
   * Reading: 
@@ -38,7 +38,7 @@ May 15
       1. (Optional) **ESL** 14.5.1, 14.7.1-14.7.2
 
 May 17
-: **Lecture 14**{: .label .label-purple } Dim reduction + Latent embeddings II
+: **Lecture 14**{: .label .label-purple } Latent embeddings II
   : **HW 3 due**{: .label .label-red }  **HW 4 out**{: .label .label-orange }
 : **CQ4 out**{: .label .label-green }: K-means, MoG, EM, Hierarchical clustering
 : * PCA more formally, Factor analysis
