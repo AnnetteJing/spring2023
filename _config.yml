@@ -17,7 +17,7 @@ title: STATS 315B
 tagline: STATS 315B - Modern Applied Statistics
 description: 
 author: Emily Fox
-baseurl: '/spring2022' # the subpath of your site, e.g. /blog
+baseurl: '/spring2023' # the subpath of your site, e.g. /blog
 url: 'https://stanford-stats315b.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
