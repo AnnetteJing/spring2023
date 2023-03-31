@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Projects
-nav_order: 5
+nav_order: 4
 ---
 
 ## Important Dates
 * Mon., May 1 at 11:59pm: Project Proposals 
 * Mon., May 22 at 11:59pm: Project Milestone 
-<!-- * Thurs., June 8 from 9:45am - 12pm: Poster Session -->
+* Thurs., June 8 @ time & location TBD: Poster Session
 * Mon., June 12 at 11:59am (yes, am): Project Report
 
 ## Your Course Project 
@@ -50,7 +50,7 @@ A project milestone should be submitted on **May 22nd by 11:59pm via Gradescope*
  
 ## Poster Session  
 
-We will hold a poster session on **TBD**. Each team will be given a stand to present a poster summarizing the project motivation, methodology, and results. The poster session will give you a chance to show off the hard work you put into your project, and to learn about the projects of your peers. 
+We will hold a poster session on **Thursday, June 8th at time & location TBD**. Each team will be given a stand to present a poster summarizing the project motivation, methodology, and results. The poster session will give you a chance to show off the hard work you put into your project, and to learn about the projects of your peers. 
 
 Here are some details on the poster format:
 - We will provide poster boards that are 30x40. 

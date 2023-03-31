@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Homework
-nav_order: 4
+nav_order: 3
 ---
 ## General Homework Information
 
@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Homework Assignments
 
-- Homework 0 (basics), due 4/10
+- Homework 0 (basics), due 4/7
 - Homework 1 (decision trees), due 4/19
 - Homework 2 (deep learning), due 5/3
 - Homework 3 (K-means clustering, EM), due 5/17

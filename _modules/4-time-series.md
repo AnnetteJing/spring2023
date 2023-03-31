@@ -20,7 +20,7 @@ June 5
       1. **PML2** 4.2, 8.1-8.4
       1. **PML2** 30.1-30.4, 31.1-31.2
       1. (Optional) [Deep Learning Ch.10](https://www.deeplearningbook.org/contents/rnn.html)
-      1. (Optional) [Forecasting Big Time Seires; Theory and Practice](https://lovvge.github.io/Forecasting-Tutorial-WWW-2020/)
+      1. (Optional) [Forecasting Big Time Series; Theory and Practice](https://lovvge.github.io/Forecasting-Tutorial-WWW-2020/)
 
 June 7
 : **Lecture 19**{: .label .label-purple } Time Series III

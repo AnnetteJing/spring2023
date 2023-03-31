@@ -4,7 +4,7 @@ title: Week 2, 3, 4 - Non-linear regression and classification
 
 Apr 10
 : **Lecture 3**{: .label .label-purple } Decision trees I 
-  : **HW 0 due**{: .label .label-red }  **HW 1 out**{: .label .label-orange }
+  : &nbsp;
 : * Decision trees
   * Reading: 
       1. **PML1** 18.1
