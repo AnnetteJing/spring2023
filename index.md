@@ -26,7 +26,6 @@ The course starts with a quick review of linear regression and classification, e
 {% endfor %}
 
 ## Course Logistics
-&nbsp;
 
 **When**: Class is Mondays and Wednesdays 1:30-2:50pm PST.
 
